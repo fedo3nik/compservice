@@ -1,0 +1,95 @@
+2020-12-15 15:00:25 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:11:14 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:17:24 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:17:34 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:18:09 DEBUG MainRestController:54 - try to register user
+2020-12-15 15:18:09 INFO  UserServiceAspect:48 - is user exist = null
+2020-12-15 15:18:09 INFO  UserServiceAspect:54 - After callAtUserServiceExistsUserByLogin
+2020-12-15 15:28:30 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:29:01 DEBUG MainRestController:54 - try to register user
+2020-12-15 15:29:01 INFO  UserServiceAspect:48 - is user exist = null
+2020-12-15 15:29:01 INFO  UserServiceAspect:54 - After callAtUserServiceExistsUserByLogin
+2020-12-15 15:29:14 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:29:57 DEBUG MainRestController:76 - try to login user
+2020-12-15 15:29:58 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:29:58 DEBUG MainRestController:101 - get user by token
+2020-12-15 15:29:58 DEBUG MainRestController:101 - get user by token
+2020-12-15 15:30:08 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:30:09 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:30:09 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:30:17 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:30:58 DEBUG MainRestController:76 - try to login user
+2020-12-15 15:30:58 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:30:58 DEBUG MainRestController:101 - get user by token
+2020-12-15 15:30:58 DEBUG MainRestController:101 - get user by token
+2020-12-15 15:33:33 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:33:35 DEBUG MainRestController:101 - get user by token
+2020-12-15 15:33:35 DEBUG MainRestController:101 - get user by token
+2020-12-15 15:33:39 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:34:00 DEBUG MainRestController:54 - try to register user
+2020-12-15 15:34:00 INFO  UserServiceAspect:48 - is user exist = null
+2020-12-15 15:34:00 INFO  UserServiceAspect:54 - After callAtUserServiceExistsUserByLogin
+2020-12-15 15:34:12 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:34:24 DEBUG MainRestController:76 - try to login user
+2020-12-15 15:34:25 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:34:25 DEBUG MainRestController:101 - get user by token
+2020-12-15 15:34:25 DEBUG MainRestController:101 - get user by token
+2020-12-15 15:35:34 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:35:36 DEBUG MainRestController:101 - get user by token
+2020-12-15 15:35:36 DEBUG MainRestController:101 - get user by token
+2020-12-15 15:35:39 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:35:41 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:35:55 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:35:56 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:36:41 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:36:52 DEBUG MainRestController:76 - try to login user
+2020-12-15 15:36:54 DEBUG MainRestController:40 - getting all users
+2020-12-15 15:36:54 DEBUG MainRestController:101 - get user by token
+2020-12-15 16:54:07 DEBUG MainRestController:40 - getting all users
+2020-12-15 16:54:10 DEBUG MainRestController:101 - get user by token
+2020-12-15 16:56:20 DEBUG MainRestController:40 - getting all users
+2020-12-15 16:56:27 DEBUG MainRestController:76 - try to login user
+2020-12-15 16:56:27 DEBUG MainRestController:40 - getting all users
+2020-12-15 16:56:28 DEBUG MainRestController:101 - get user by token
+2020-12-15 16:56:28 DEBUG MainRestController:101 - get user by token
+2020-12-15 16:56:49 DEBUG MainRestController:101 - get user by token
+2020-12-15 16:57:14 DEBUG MainRestController:101 - get user by token
+2020-12-15 16:57:15 DEBUG MainRestController:101 - get user by token
+2020-12-15 16:57:53 DEBUG MainRestController:40 - getting all users
+2020-12-15 16:58:04 DEBUG MainRestController:76 - try to login user
+2020-12-15 16:58:05 DEBUG MainRestController:40 - getting all users
+2020-12-15 16:58:05 DEBUG MainRestController:101 - get user by token
+2020-12-15 16:58:51 DEBUG MainRestController:40 - getting all users
+2020-12-15 16:58:58 DEBUG MainRestController:76 - try to login user
+2020-12-15 16:58:58 DEBUG MainRestController:40 - getting all users
+2020-12-15 16:58:58 DEBUG MainRestController:101 - get user by token
+2020-12-15 16:58:58 DEBUG MainRestController:101 - get user by token
+2020-12-15 16:59:54 DEBUG MainRestController:101 - get user by token
+2020-12-15 17:07:30 DEBUG MainRestController:76 - try to login user
+2020-12-15 17:08:35 DEBUG MainRestController:101 - get user by token
+2020-12-15 17:08:40 DEBUG MainRestController:101 - get user by token
+2020-12-15 17:08:41 DEBUG MainRestController:101 - get user by token
+2020-12-15 17:11:08 DEBUG MainRestController:76 - try to login user
+2020-12-15 17:15:12 DEBUG MainRestController:40 - getting all users
+2020-12-15 17:15:12 DEBUG MainRestController:101 - get user by token
+2020-12-15 17:15:12 DEBUG MainRestController:101 - get user by token
+2020-12-15 17:15:17 DEBUG MainRestController:40 - getting all users
+2020-12-15 17:15:17 DEBUG MainRestController:101 - get user by token
+2020-12-15 17:15:17 DEBUG MainRestController:101 - get user by token
+2020-12-15 17:17:04 DEBUG MainRestController:40 - getting all users
+2020-12-15 17:17:04 DEBUG MainRestController:101 - get user by token
+2020-12-15 17:17:04 DEBUG MainRestController:101 - get user by token
+2020-12-15 17:17:53 DEBUG MainRestController:40 - getting all users
+2020-12-15 17:17:53 DEBUG MainRestController:101 - get user by token
+2020-12-15 17:17:53 DEBUG MainRestController:101 - get user by token
+2020-12-15 17:19:59 DEBUG MainRestController:76 - try to login user
+2020-12-15 17:20:11 DEBUG MainRestController:101 - get user by token
+2020-12-16 19:19:55 DEBUG MainRestController:40 - getting all users
+2020-12-16 19:19:57 DEBUG MainRestController:101 - get user by token
+2020-12-16 19:19:57 DEBUG MainRestController:101 - get user by token
+2020-12-16 19:20:09 DEBUG MainRestController:40 - getting all users
+2020-12-16 19:20:26 DEBUG MainRestController:76 - try to login user
+2020-12-16 19:20:26 DEBUG MainRestController:40 - getting all users
+2020-12-16 19:20:26 DEBUG MainRestController:101 - get user by token
+2020-12-17 15:39:35 DEBUG MainRestController:40 - getting all users
+2020-12-17 15:39:37 DEBUG MainRestController:101 - get user by token
