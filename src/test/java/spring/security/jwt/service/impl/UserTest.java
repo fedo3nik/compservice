@@ -27,7 +27,7 @@ class UserTest {
     @Test
     void existsUserByLoginAndPassword() {
         try {
-            Assert.assertTrue(userService.existsUserByLoginAndPassword("1234","1234"));
+            Assert.assertTrue(userService.existsUserByLoginAndPassword("dima123","dima123"));
         } catch (ServiceException e) {
             e.printStackTrace();
         }
