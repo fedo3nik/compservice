@@ -8,19 +8,19 @@ async function getAllUsers() {
     });
 }
 
-async function getAllDoctors(token){
-    return await fetch("/patient/getAllDoctors", {
-        method: "GET",
-        headers: {
-            'Authorization': `Bearer ${token}`,
-            'content-type': 'application/json'
-        }
-    }).then(function (res) {
-        return res.json();
-    }).then(function (data) {
-        return data;
-    });
-}
+// async function getAllDoctors(token){
+//     return await fetch("/patient/getAllDoctors", {
+//         method: "GET",
+//         headers: {
+//             'Authorization': `Bearer ${token}`,
+//             'content-type': 'application/json'
+//         }
+//     }).then(function (res) {
+//         return res.json();
+//     }).then(function (data) {
+//         return data;
+//     });
+// }
 
 async function logUser(data) {
     return await fetch("/login", {
