@@ -19,7 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9acb279a-4bf2-44a8-abea-b3ea76496287" name="Default Changelist" comment="" />
+    <list default="true" id="9acb279a-4bf2-44a8-abea-b3ea76496287" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a93bd26f-a489-44a9-a7fe-1eb023cf99f3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a93bd26f-a489-44a9-a7fe-1eb023cf99f3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a93bd26f-a489-44a9-a7fe-1eb023cf99f3/storage_v2/_src_/database/projectdb.V_Wpyg/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a93bd26f-a489-44a9-a7fe-1eb023cf99f3/storage_v2/_src_/database/projectdb.V_Wpyg/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/myapp.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/myapp.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spring/security/jwt/service/impl/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spring/security/jwt/service/impl/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/api/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/js/api/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/registration.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +86,31 @@
       <recent name="C:\3 cource 5 semester\Java Spring\SpringService" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.SpringSecurityJwtApplication">
+    <configuration name="MainPageTest" type="JUnit" factoryName="JUnit">
+      <module name="SpringService" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="spring.security.jwt.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="spring.security.jwt.service.impl.MainPAge" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserFuncsTest" type="JUnit" factoryName="JUnit">
+      <module name="SpringService" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="spring.security.jwt.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="spring.security.jwt.service.impl.UserTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringSecurityJwtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="SpringService" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="spring.security.jwt.SpringSecurityJwtApplication" />
@@ -78,6 +118,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.MainPageTest" />
+      <item itemvalue="JUnit.UserFuncsTest" />
+      <item itemvalue="Spring Boot.SpringSecurityJwtApplication" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -96,7 +141,12 @@
       <workItem from="1608037307908" duration="3458000" />
       <workItem from="1608135557820" duration="4589000" />
       <workItem from="1608208271417" duration="905000" />
-      <workItem from="1608211463785" duration="759000" />
+      <workItem from="1608211463785" duration="9224000" />
+      <workItem from="1608281680076" duration="4978000" />
+      <workItem from="1608295697644" duration="66000" />
+      <workItem from="1608479650201" duration="3262000" />
+      <workItem from="1608550899062" duration="396000" />
+      <workItem from="1608646165440" duration="1264000" />
     </task>
     <servers />
   </component>
@@ -113,12 +163,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="70" width="909" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608140879574">
+    <state x="361" y="70" width="968" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608647121254">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="70" width="909" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1608140879574" />
+    <state x="361" y="70" width="968" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1608647121254" />
+    <state x="575" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1608647096163">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="575" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1608647096163" />
     <state x="372" y="329" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1608036185038">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -127,38 +182,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608208580274" />
-    <state width="1495" height="421" key="GridCell.Tab.0.bottom" timestamp="1608209179371">
+    <state width="1495" height="260" key="GridCell.Tab.0.bottom" timestamp="1608647392887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1495" height="421" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608209179371" />
-    <state width="1495" height="421" key="GridCell.Tab.0.center" timestamp="1608209179371">
+    <state width="1495" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608647392887" />
+    <state width="1495" height="260" key="GridCell.Tab.0.center" timestamp="1608647392887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1495" height="421" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608209179371" />
-    <state width="1495" height="421" key="GridCell.Tab.0.left" timestamp="1608209179371">
+    <state width="1495" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608647392887" />
+    <state width="1495" height="260" key="GridCell.Tab.0.left" timestamp="1608647392887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1495" height="421" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608209179371" />
-    <state width="1495" height="421" key="GridCell.Tab.0.right" timestamp="1608209179371">
+    <state width="1495" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608647392887" />
+    <state width="1495" height="260" key="GridCell.Tab.0.right" timestamp="1608647392887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1495" height="421" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608209179371" />
-    <state width="1495" height="421" key="GridCell.Tab.1.bottom" timestamp="1608209179371">
+    <state width="1495" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608647392887" />
+    <state width="1495" height="260" key="GridCell.Tab.1.bottom" timestamp="1608647392887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1495" height="421" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608209179371" />
-    <state width="1495" height="421" key="GridCell.Tab.1.center" timestamp="1608209179371">
+    <state width="1495" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608647392887" />
+    <state width="1495" height="260" key="GridCell.Tab.1.center" timestamp="1608647392887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1495" height="421" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608209179371" />
-    <state width="1495" height="421" key="GridCell.Tab.1.left" timestamp="1608209179371">
+    <state width="1495" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608647392887" />
+    <state width="1495" height="260" key="GridCell.Tab.1.left" timestamp="1608647392887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1495" height="421" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608209179371" />
-    <state width="1495" height="421" key="GridCell.Tab.1.right" timestamp="1608209179371">
+    <state width="1495" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608647392887" />
+    <state width="1495" height="260" key="GridCell.Tab.1.right" timestamp="1608647392887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1495" height="421" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608209179371" />
+    <state width="1495" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608647392887" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1608140621830">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
